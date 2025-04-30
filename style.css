@@ -1,0 +1,100 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+button{
+    border-radius: 90px;
+    color: blue;
+    border: 90px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+#span{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration:  blue;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.para1{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 900px;
+    word-spacing: 10px;
+}
+#para2{
+    font-size: 20px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para3{
+    font-size: 20px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Tecno{
+    font-size: 50px;
+    color: blue;
+    text-decoration:antiquewhite underline;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tecnoinfo{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Ifinix{
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+    text-decoration: antiquewhite underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#infinixpara{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Redmi{
+    font-size: 50px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration:antiquewhite underline;
+
+}
+#Redmiinfo{
+    font-size: 20px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Samsung{
+    font-size: 50px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration:  antiquewhite underline;
+}
+.samsungpara{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Iphone{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: blue;
+    text-decoration: underline antiquewhite;
+}
+.Iphonepara{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.end{
+font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
